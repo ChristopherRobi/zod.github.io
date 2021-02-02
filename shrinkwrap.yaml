@@ -1,0 +1,12 @@
+dependencies:
+  particles.js: 2.0.0
+packages:
+  /particles.js/2.0.0:
+    dev: false
+    resolution:
+      integrity: sha1-IThsQyjWx/lngKIB6W7t/AnHNvY=
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  particles.js: ^2.0.0
